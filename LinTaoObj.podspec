@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "LinTaoObj"
-  s.version      = "v0.0.1"
+  s.version      = "0.0.1"
   s.summary      = "简介sjlk lksdj eoiwj dlsfj dks"
 
   # This description is used to generate tags and improve search results.
